@@ -1,5 +1,5 @@
 #!/bin/bash
-HOSTS="mixerboy24.dyndns.org"
+HOSTS="192.168.1.103"
 COUNT=4
 
 pingtest(){
