@@ -1,14 +1,4 @@
-```atteoksanen@webserver1:~$ sudo nmap 192.168.1.1 -p 80
-
-Starting Nmap 7.60 ( https://nmap.org ) at 2019-03-23 08:50 EET
-Nmap scan report for _gateway (192.168.1.1)
-Host is up (0.00072s latency).
-
-PORT   STATE SERVICE
-80/tcp open  http
-MAC Address: AC:84:C6:8F:F4:4E (Tp-link Technologies)
-
-Nmap done: 1 IP address (1 host up) scanned in 0.68 seconds
+```
 atteoksanen@webserver1:~$ sudo nmap 192.168.1.* -p 80
 
 Starting Nmap 7.60 ( https://nmap.org ) at 2019-03-23 08:50 EET
